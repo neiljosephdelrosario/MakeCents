@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746952006113",
+    "project_id": "makecents-1ec9f",
+    "storage_bucket": "makecents-1ec9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746952006113:android:6165ed40a75269ccb8daa0",
+        "android_client_info": {
+          "package_name": "com.example.makecents_capstone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh5hLaq-B4JDnXC-tRtJnsEacEr_wSZbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

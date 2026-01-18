@@ -1,0 +1,56 @@
+name: makecents_capstone
+description: MakeCents Capstone onboarding UI
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  provider: ^6.0.5
+  uuid: ^3.0.6
+  build_runner: ^2.4.13
+  pie_chart: ^5.3.2
+  hive_generator: ^2.0.1
+  intl: ^0.19.0
+  connectivity_plus: ^6.0.3
+  firebase_core: ^3.5.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.5.0
+  google_sign_in: ^6.2.1
+  shared_preferences: ^2.3.3
+  firebase_database: ^11.0.3
+  url_launcher: ^6.0.0
+  table_calendar: ^3.0.9
+  fluentui_system_icons: ^1.1.222
+  http: ^1.2.0
+  google_generative_ai: ^0.4.3
+  showcaseview: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+  flutter_launcher_icons: ^0.13.1
+  
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_icon_1024.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/budgetplan/
+    - assets/goalsetting/
+    - assets/dashboard/
+    - assets/financial/
+
+
